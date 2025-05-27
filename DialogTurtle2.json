@@ -1,1 +1,10 @@
+{
+  "c2array": true,
+  "size": [3, 1, 1],
+  "data": [
+    [["¡He crecido mucho!"]],
+    [["Ahora soy lo suficientemente fuerte."]],
+    [["¡Presiona la barra espaciadora para destruir la basura!"]]
+  ]
+}
 
