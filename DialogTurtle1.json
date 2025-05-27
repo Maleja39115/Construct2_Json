@@ -1,1 +1,11 @@
+{
+  "c2array": true,
+  "size": [4, 1, 1],
+  "data": [
+    [["¡Hola! Soy Shelbi, una tortuga marina."]],
+    [["Necesito tu ayuda para regresar a mi hogar: un hermoso arrecife de coral."]],
+    [["¿Puedes ayudarme a encontrar el camino y limpiar la basura del océano?"]],
+    [["¡Juntos podemos proteger el mar!"]]
+  ]
+}
 
